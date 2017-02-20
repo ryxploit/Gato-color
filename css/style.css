@@ -1,0 +1,44 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+
+	background: #dcdcf5;
+
+
+
+}
+.head{
+	background: #091B74;
+}
+.head header{
+	background: #091B74;
+	color: #FFF;
+}
+.table-responsive{
+	margin-top: 50px;
+}
+
+.table-responsive table tr td button{
+   background: #FFF;
+	height: 100px;
+	width: 100px;
+}
+.control{
+	margin-top: 50px;
+	background: #FFF;
+	height: 370px;
+	/*width: 350px;*/
+	text-align: center;
+}
+ .btn{
+ 	margin-top: 50px;
+ 	height: 40px;
+ 	width: 130px;
+}
+
+.turno{
+	margin-top: 35px;
+}
+
